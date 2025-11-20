@@ -1,0 +1,23 @@
+.root {
+    -fx-font-size: 14pt;
+    -fx-font-family: "Courier New";
+    /*-fx-base: rgb(255, 219, 255);*/
+    /*-fx-background: rgb(248, 227, 255);*/
+}
+
+#drawSelectorComboBox {
+    /*-fx-base: #000;*/
+}
+
+#textLabel {
+    -fx-font-style: serif;
+    -fx-font-size: 16px;
+}
+
+.button {
+    -fx-text-fill: rgb(49, 89, 23);
+    -fx-border-color: #000;
+    -fx-border-radius: 10;
+    -fx-outline: none;
+    /*-fx-padding: 3 6 6 6;*/
+}
