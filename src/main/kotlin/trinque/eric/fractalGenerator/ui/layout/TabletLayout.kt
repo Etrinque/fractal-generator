@@ -1,4 +1,13 @@
 package trinque.eric.fractalGenerator.ui.layout
 
-class TabletLayout {
+import javafx.scene.layout.Region
+
+class TabletLayout : AppLayout {
+    override fun build(): Region {
+        TODO("Not yet implemented")
+    }
+
+    override fun updateLayout() {
+        TODO("Not yet implemented")
+    }
 }
